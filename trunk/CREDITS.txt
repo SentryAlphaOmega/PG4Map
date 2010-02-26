@@ -1,0 +1,10 @@
+Credits go especially to kiwi.ds - without NDS Edit
+and the source code for the NSBMD viewer, this thing
+would never have been possible!
+
+Also thanks for SCV's modification of the original viewer's
+source code for supporting more texture formats.
+
+Special thanks go to FLOPPEI for introducing me to the world
+of NDS homebrew / hacking (it's awesome :) and testing this thing
+out.

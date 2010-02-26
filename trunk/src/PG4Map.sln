@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.1.0.4977
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibNDSFormats", "LibNDSFormats\LibNDSFormats.csproj", "{9F56470C-8009-4138-A156-547AEC83D5B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibPkMap4G", "LibPkMap4G\LibPkMap4G.csproj", "{264ED20B-E022-4809-B7EA-BB39F54678A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program", "Program\Program.csproj", "{39CE7D99-0B21-4C94-B5B3-764E97B206F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F56470C-8009-4138-A156-547AEC83D5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F56470C-8009-4138-A156-547AEC83D5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F56470C-8009-4138-A156-547AEC83D5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F56470C-8009-4138-A156-547AEC83D5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{264ED20B-E022-4809-B7EA-BB39F54678A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{264ED20B-E022-4809-B7EA-BB39F54678A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{264ED20B-E022-4809-B7EA-BB39F54678A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{264ED20B-E022-4809-B7EA-BB39F54678A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39CE7D99-0B21-4C94-B5B3-764E97B206F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39CE7D99-0B21-4C94-B5B3-764E97B206F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39CE7D99-0B21-4C94-B5B3-764E97B206F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39CE7D99-0B21-4C94-B5B3-764E97B206F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
